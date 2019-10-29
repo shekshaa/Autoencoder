@@ -1,5 +1,4 @@
-# Autoencoder
-Conv/Deconv Autoencoder model on Farsi Handwritten Digits
+# Conv/Deconv Autoencoder
 
 This repository contains all the codes for the Autoencoder question in HW3 of CE-40959: Deep Learning Course, 
 presented in Sharif University of Technology. In this question, a complete set of Jupyter Notebook and python scripts 
