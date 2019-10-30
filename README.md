@@ -1,6 +1,6 @@
 # Conv/Deconv Autoencoder
 
-This repository contains all the codes for the Autoencoder question in HW3 of CE-40959: Deep Learning Course, 
+This repository contains all the codes for the Autoencoder question in HW3 of [CE-40959: Deep Learning Course](http://ce.sharif.edu/courses/97-98/2/ce959-1/), 
 presented in Sharif University of Technology. In this question, a complete set of Jupyter Notebook and python scripts 
 is prepared for implementing a Conv/Deconv Autoencoder model applied on images.
 
